@@ -30,9 +30,9 @@ const Pricing = () => {
                             Find the right plan that suits <br className="hidden lg:block" /> <span className="font-subheading italic">your needs</span>
                         </h2>
                         <p className="text-base md:text-lg text-center text-accent-foreground/80 mt-6">
-                            Transform your marketing with AI-powered automation. Create campaigns faster, generate better content, and make smarter decisions in minutes.
+                            Transform your daily workflows with AI-powered automation. Create campaigns faster, generate better content, and make smarter decisions in minutes.
                         </p>
-                    </div>
+                    </div> 
                 </Container>
 
                 <Container delay={0.2}>
